@@ -1,4 +1,4 @@
-**Vibe Coder | Informatics & Programming Enthusiast**
+##Vibe Coder | Informatics & Programming Enthusiast**
 
 I love informatics and programming, and I turn ideas into working projects through vibe coding. I mostly build simple, fun projects and learn something new with every one.
 
@@ -20,10 +20,6 @@ I love informatics and programming, and I turn ideas into working projects throu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sodiumnchloride&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sodiumnchloride&layout=compact)
 
 ## Connect With Me
 
