@@ -1,4 +1,4 @@
-##Vibe Coder | Informatics & Programming Enthusiast**
+## Vibe Coder | Informatics & Programming Enthusiast
 
 I love informatics and programming, and I turn ideas into working projects through vibe coding. I mostly build simple, fun projects and learn something new with every one.
 
